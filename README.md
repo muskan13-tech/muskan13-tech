@@ -24,8 +24,12 @@
 - ⚡ Fun fact **I love reading mythological books.**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/muskan-baranwal-b351031a3/" target="LinkedIN">LinkedIN<height="30" width="40"></a>
-
+<a href="mailto:musurj13@gmail.com" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32"></a>
+&nbsp;<a href="https://www.linkedin.com/in/muskan-baranwal-b351031a3/" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32"></a>
+ &nbsp; <a href="https://twitter.com/selfiepaithiyam" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32"></a>
+&nbsp;<a href="https://www.instagram.com/muskan_baranwal_13/" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32"></a>
+&nbsp;	<a href="https://www.hackerrank.com/musurj13" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30"></a>
+	
 
 <h2 align="left">Languages and Tools:</h2>
 	<h3 align="left">Major Languages:</h3>
