@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan13-tech&label=Profile%20views&color=0e75b6&style=flat" alt="muskan13-tech" /> </p>
-
-
 <img src="https://github.com/muskan13-tech/muskan13-tech/blob/main/muskan.gif" alt="banner"  height = 400px width=1400px>
 
 <p align="left">
