@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muskan Baranwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan13-tech&label=Profile%20views&color=0e75b6&style=flat" alt="muskan13-tech" /> </p>
-<img src="https://github.com/muskan13-tech/muskan13-tech/blob/main/muskan.gif" alt="banner"  height = 400px width=1400px>
+<img src="https://github.com/muskan13-tech/muskan13-tech/blob/main/muskan.gif" alt="banner"  height = 400px width=1700px>
 
 <p align="left">
 	My name is Muskan Baranwal pursuing B .tech from Bhagalpur College of Engineering, Bhagalpur ,Bihar. I am a 3rd year Computer Science Student mostly interested in developing new skills. Goal oriented, focused computer science student . Complete knowledge of programming languages like C,C ad Python. Self-motivated computer science engineer with keen interest in coding. I am able to handle multiple tasks on a daily basis .I use a creative approach to problem solving .I am a dependable person who is great at time management .I am always energetic and eager to learn new skills.
@@ -22,7 +19,7 @@
 
 - ⚡ Fun fact **I love reading mythological books.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 👋 </h3>
 <a href="mailto:musurj13@gmail.com" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32"></a>
 &nbsp;<a href="https://www.linkedin.com/in/muskan-baranwal-b351031a3/" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32"></a>
  &nbsp; <a href="https://twitter.com/selfiepaithiyam" target="_blank"><img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32"></a>
