@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan13-tech&label=Profile%20views&color=0e75b6&style=flat" alt="muskan13-tech" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img src="https://github.com/muskan13-tech/muskan13-tech/blob/main/muskan.gif" alt="banner"  height = 400px width=1400px>
 
 <p align="left">
 	My name is Muskan Baranwal pursuing B .tech from Bhagalpur College of Engineering, Bhagalpur ,Bihar. I am a 3rd year Computer Science Student mostly interested in developing new skills. Goal oriented, focused computer science student . Complete knowledge of programming languages like C,C ad Python. Self-motivated computer science engineer with keen interest in coding. I am able to handle multiple tasks on a daily basis .I use a creative approach to problem solving .I am a dependable person who is great at time management .I am always energetic and eager to learn new skills.
