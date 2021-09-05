@@ -1,8 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+<body>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan13-tech&label=Profile%20views&color=0e75b6&style=flat" alt="muskan13-tech" /> </p>
 <img src="https://github.com/muskan13-tech/muskan13-tech/blob/main/muskan.gif" alt="banner"  height = 400px width=1700px>
 
 <p align="left">
-	My name is Muskan Baranwal pursuing B .tech from Bhagalpur College of Engineering, Bhagalpur ,Bihar. I am a 3rd year Computer Science Student mostly interested in developing new skills. Goal oriented, focused computer science student . Complete knowledge of programming languages like C,C++ and Python. Self-motivated computer science engineer with keen interest in coding. I am able to handle multiple tasks on a daily basis .I use a creative approach to problem solving .I am a dependable person who is great at time management .I am always energetic and eager to learn new skills.
+	My name is Muskan Baranwal pursuing B .tech from Bhagalpur College of Engineering, Bhagalpur ,Bihar. I am a final year Computer Science Student mostly interested in developing new skills. Goal oriented, focused computer science student . Complete knowledge of programming languages like C,C++ and Python. Self-motivated computer science engineer with keen interest in coding. I am able to handle multiple tasks on a daily basis .I use a creative approach to problem solving .I am a dependable person who is great at time management .I am always energetic and eager to learn new skills.
 	
 </p>
 - 🔭 I’m currently working on **Competitive Programming**
@@ -52,4 +61,5 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	 </p>
 </p>
-
+</body>
+</html>
