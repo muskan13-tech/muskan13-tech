@@ -51,18 +51,5 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	 </p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan13-tech&show_icons=true&locale=en&layout=compact" alt="muskan13-tech">
-</p>	 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskan13-tech&show_icons=true&locale=en" alt="muskan13-tech">
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan13-tech&" alt="muskan13-tech">
-</p>	
-
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=muskan13-tech" alt="muskan13-tech" /></a>
 </p>
 
